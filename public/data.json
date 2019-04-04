@@ -1,0 +1,61 @@
+[{
+  "id": 1,
+  "type": "double-wide",
+  "image": "",
+  "title": "Saab facing 10 years in prison",
+  "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit ex assumenda incidunt? Laboriosam reiciendis harum modi necessitatibus impedit quas omnis sequi obcaecati aliquid doloribus? Eaque illo doloribus dicta dolore harum. Lorem ipsum."
+}, {
+  "id": 2,
+  "type": "hero",
+  "image": "lb_cover.png",
+  "title": "Leanboys back in town",
+  "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit ex assumenda incidunt? Laboriosam reiciendis harum modi necessitatibus impedit quas omnis sequi obcaecati aliquid doloribus? Eaque illo doloribus dicta dolore harum. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit ex assumenda incidunt? Laboriosam reiciendis harum modi necessitatibus impedit quas omnis sequi obcaecati aliquid doloribus? Eaque illo doloribus dicta dolore harum. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit ex assumenda incidunt? Laboriosam reiciendis harum modi necessitatibus."
+}, {
+  "id": 3,
+  "type": "single",
+  "image": "",
+  "title": "Paleto bank hit",
+  "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit ex assumenda incidunt? Laboriosam reiciendis harum modi necessitatibus impedit quas omnis sequi obcaecati aliquid doloribus? Eaque illo doloribus dicta dolore harum. Lorem ipsum."
+}, {
+  "id": 4,
+  "type": "double-tall",
+  "image": "some_img.jpg",
+  "title": "Bull X lawyer leaves the company",
+  "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit ex assumenda incidunt? Laboriosam reiciendis harum modi necessitatibus impedit quas omnis sequi obcaecati aliquid doloribus? Eaque illo doloribus dicta dolore harum. Lorem ipsum."
+}, {
+  "id": 5,
+  "type": "single",
+  "image": "",
+  "title": "Smaller title",
+  "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit ex assumenda incidunt? Laboriosam reiciendis harum modi necessitatibus impedit quas omnis sequi obcaecati aliquid doloribus? Eaque illo doloribus dicta dolore harum. Lorem ipsum."
+}, {
+  "id": 6,
+  "type": "triple-wide",
+  "image": "",
+  "title": "New shipment of weed seeds arrives at LS port",
+  "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit ex assumenda incidunt? Laboriosam reiciendis harum modi necessitatibus impedit quas omnis sequi obcaecati aliquid doloribus? Eaque illo doloribus dicta dolore harum. Lorem ipsum."
+}, {
+  "id": 7,
+  "type": "single",
+  "image": "",
+  "title": "Smaller title",
+  "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit ex assumenda incidunt? Laboriosam reiciendis harum modi necessitatibus impedit quas omnis sequi obcaecati aliquid doloribus? Eaque illo doloribus dicta dolore harum. Lorem ipsum."
+}, {
+  "id": 8,
+  "type": "single",
+  "image": "",
+  "title": "Smaller title",
+  "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit ex assumenda incidunt? Laboriosam reiciendis harum modi necessitatibus impedit quas omnis sequi obcaecati aliquid doloribus? Eaque illo doloribus dicta dolore harum. Lorem ipsum."
+}, {
+  "id": 9,
+  "type": "triple-wide",
+  "image": "",
+  "title": "Marlowe Vineyards records record sales",
+  "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit ex assumenda incidunt? Laboriosam reiciendis harum modi necessitatibus impedit quas omnis sequi obcaecati aliquid doloribus? Eaque illo doloribus dicta dolore harum. Lorem ipsum."
+}, {
+  "id": 10,
+  "type": "single",
+  "image": "",
+  "title": "Smaller title",
+  "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit ex assumenda incidunt? Laboriosam reiciendis harum modi necessitatibus impedit quas omnis sequi obcaecati aliquid doloribus? Eaque illo doloribus dicta dolore harum. Lorem ipsum."
+}]

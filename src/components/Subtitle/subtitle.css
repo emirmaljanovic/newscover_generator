@@ -1,0 +1,43 @@
+.subtitle {
+  display: grid;
+  grid-column: -1 / 1;
+  grid-template-columns: repeat(4, 1fr);
+  
+  text-align: right;
+
+  padding: 0px 5px;
+  margin-bottom: 5px;
+
+  border-bottom: 2px solid #000;
+}
+
+.subtitle span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.subtitle span:nth-child(2)::before,
+.subtitle span:nth-child(2)::after {
+  content: '•';
+  margin: 0 20px;
+}
+
+.subtitle .issue {
+  justify-content: flex-start;
+  grid-column: 1 / 2;
+}
+
+.subtitle .tagline {
+  grid-column: 2 / 4;
+
+  letter-spacing: 2px;
+}
+
+.subtitle .date {
+  grid-column: 4 / 5;
+  justify-content: flex-end;
+}
