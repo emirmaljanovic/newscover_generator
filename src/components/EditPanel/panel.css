@@ -41,7 +41,7 @@
 
   cursor: pointer;
 
-  background-image: url('/close.svg');
+  background-image: url('../../close.svg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -137,7 +137,7 @@
 
   transition: box-shadow 200ms ease-in-out;
 
-  background-image: url('/image_placeholder.svg');
+  background-image: url('../../image_placeholder.svg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 40px;
